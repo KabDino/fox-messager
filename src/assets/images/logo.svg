@@ -1,0 +1,42 @@
+<svg width="159" height="191" viewBox="0 0 159 191" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d)">
+<path d="M5 133.5L50.5 143.5" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M50.5 143.5L70.5 179" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M70.5 179L80 183.5" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M80 183.5L89.5 179" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M89.5 179L80.5 175.5" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M80.5 175.5L71 179" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M89.5 179L142 80" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M142 80L151.5 47" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M151.5 47L145.5 3" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M50.5 143.5L16 81" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M17 80.5L57.5 45.5" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M79 40.5L57 45.5" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M79 40.5L100.5 45" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M100 45.5L141.5 80" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M142 79.5L154 131" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M154 131.5L109.5 142.5" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M62 163.5L112.5 95" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M127 108L102 109.5" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M93 121.5L120 108.5" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M98 162.5L46 95.5" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M31.5 109L57 110" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M66.5 122.5L40.5 109.5" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M16 81L5.5 133" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M5.5 48L16 81" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M10.5 4.5L5.5 48" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M145.5 3L5.5 133" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M10.5 4.5L154 131.5" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+<defs>
+<filter id="filter0_d" x="0.249847" y="0.249939" width="158.5" height="190" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="2"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.470833 0 0 0 0 0.470833 0 0 0 0 0.470833 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>
