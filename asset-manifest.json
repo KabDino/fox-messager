@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/fox-messager/static/css/main.987e880a.chunk.css",
+    "main.js": "/fox-messager/static/js/main.0fc287fe.chunk.js",
+    "main.js.map": "/fox-messager/static/js/main.0fc287fe.chunk.js.map",
+    "runtime-main.js": "/fox-messager/static/js/runtime-main.191cbad3.js",
+    "runtime-main.js.map": "/fox-messager/static/js/runtime-main.191cbad3.js.map",
+    "static/js/2.7f1a0410.chunk.js": "/fox-messager/static/js/2.7f1a0410.chunk.js",
+    "static/js/2.7f1a0410.chunk.js.map": "/fox-messager/static/js/2.7f1a0410.chunk.js.map",
+    "static/css/3.49fed19b.chunk.css": "/fox-messager/static/css/3.49fed19b.chunk.css",
+    "static/js/3.66074f2f.chunk.js": "/fox-messager/static/js/3.66074f2f.chunk.js",
+    "static/js/3.66074f2f.chunk.js.map": "/fox-messager/static/js/3.66074f2f.chunk.js.map",
+    "static/css/4.af5a4d3e.chunk.css": "/fox-messager/static/css/4.af5a4d3e.chunk.css",
+    "static/js/4.cff17ea6.chunk.js": "/fox-messager/static/js/4.cff17ea6.chunk.js",
+    "static/js/4.cff17ea6.chunk.js.map": "/fox-messager/static/js/4.cff17ea6.chunk.js.map",
+    "static/css/5.9062a1dd.chunk.css": "/fox-messager/static/css/5.9062a1dd.chunk.css",
+    "static/js/5.2d0fd78a.chunk.js": "/fox-messager/static/js/5.2d0fd78a.chunk.js",
+    "static/js/5.2d0fd78a.chunk.js.map": "/fox-messager/static/js/5.2d0fd78a.chunk.js.map",
+    "index.html": "/fox-messager/index.html",
+    "precache-manifest.a7bc067da638368cd613a7a096213c64.js": "/fox-messager/precache-manifest.a7bc067da638368cd613a7a096213c64.js",
+    "service-worker.js": "/fox-messager/service-worker.js",
+    "static/css/3.49fed19b.chunk.css.map": "/fox-messager/static/css/3.49fed19b.chunk.css.map",
+    "static/css/4.af5a4d3e.chunk.css.map": "/fox-messager/static/css/4.af5a4d3e.chunk.css.map",
+    "static/css/5.9062a1dd.chunk.css.map": "/fox-messager/static/css/5.9062a1dd.chunk.css.map",
+    "static/css/main.987e880a.chunk.css.map": "/fox-messager/static/css/main.987e880a.chunk.css.map",
+    "static/js/2.7f1a0410.chunk.js.LICENSE.txt": "/fox-messager/static/js/2.7f1a0410.chunk.js.LICENSE.txt",
+    "static/js/4.cff17ea6.chunk.js.LICENSE.txt": "/fox-messager/static/js/4.cff17ea6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/fox-messager/static/media/logo.a6d538db.svg",
+    "static/media/preloader.svg": "/fox-messager/static/media/preloader.ea559763.svg",
+    "static/media/user.jpg": "/fox-messager/static/media/user.c819cf0f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.191cbad3.js",
+    "static/js/2.7f1a0410.chunk.js",
+    "static/css/main.987e880a.chunk.css",
+    "static/js/main.0fc287fe.chunk.js"
+  ]
+}
